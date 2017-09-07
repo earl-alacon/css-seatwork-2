@@ -12,3 +12,21 @@ header,footer {
 div#content {
     margin: 10px;
 }
+
+section.row{
+    background-color: yellow;
+}
+
+section.col{
+    width: 33%;
+    float: left;
+    background-color: pink;
+}
+
+section.hero{
+    background-image: url(http://i.imgur.com/QK3IRn5.jpg);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: relative;
+}
